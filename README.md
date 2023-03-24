@@ -1,5 +1,5 @@
 # Assembler
-This program is a part of our project for the CSE3015 Digital Logic Design course. It takes a set of instructions of the ISA we've specified and converts it to the machine code. After that, we send the machine code as input to the processor we've designed in Logisim.   
+This program was made by our group of three, as a part of our project for the CSE3015 Digital Logic Design course. It takes a set of instructions of the ISA we've specified and converts it to the machine code. After that, we send the machine code as input to the processor we've designed in Logisim.
 
 For the program to work:
 * Instructions must be written into the input.txt file that is within the same directory as the program.
